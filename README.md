@@ -7,4 +7,4 @@ https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91b
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: https://zer0fr0st93.github.io/Intro-Sign-up-Form/
+Live: https://billgeorgop93.github.io/Intro-Sign-up-Form/
